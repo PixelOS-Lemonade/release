@@ -1,0 +1,22 @@
+{
+    "error": true,
+    "version": "fifteen",
+    "filename": "PixelOS_lemonade-15.0-20250208-1513.zip",
+    "datetime": 1738998000,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2386996801,
+    "url": "https://share.pokon548.ink/api/raw?path=/Android/PixelOS%20Lemonade/PropImitationHooks%20variant/PixelOS_lemonade-15.0-20250208-1513.zip",
+    "github_releases_url": "https://share.pokon548.ink/api/raw?path=/Android/PixelOS%20Lemonade/PropImitationHooks%20variant/PixelOS_lemonade-15.0-20250208-1513.zip",
+    "filehash": "d50b5b310c981bd48e8abb0a0e55f8ce",
+    "id": "d50b5b310c981bd48e8abb0a0e55f8ce",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "pokon548",
+            "name": "Bu Kun"
+        }
+    ],
+    "donate_url": "https://github.com/sponsors/pokon548",
+    "website_url": "https://github.com/PixelOS-Lemonade",
+    "news_url": "https://github.com/PixelOS-Lemonade/release/releases/"
+}
